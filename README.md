@@ -6,7 +6,7 @@ Full Stack Software Engineer and Web Developer
 
 Hey there! I'm Nathan, a Full Stack Software Engineer with a passion for building interesting products that engage users.
 
-* 🌍  I'm based in the San Francisco Bay Area!
+🌍  I'm based in the San Francisco Bay Area!
 
 ### Skills
 

@@ -3,10 +3,10 @@ Hey there! 👋 My name is Nathan Liu
 
 Full Stack Software Engineer and Web Developer
 ----------------------------------------------
-🌍  I'm based in the San Francisco Bay Area!
-✉️  You can reach me at nathanykliu@gmail.com
-🧠  Current interest: Biohacking
-⚡  Highly Motivated
+🌍  I'm based in the San Francisco Bay Area! 
+✉️  You can reach me at nathanykliu@gmail.com 
+🧠  Current interest: Biohacking 
+⚡  Highly Motivated 
 
 
 ### Skills

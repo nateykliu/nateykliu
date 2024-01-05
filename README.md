@@ -1,4 +1,4 @@
-Hey there! 👋 My name is Nathan Liu
+Hey there! 👋
 ===========================
 
 Full Stack Software Engineer and Web Developer

@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Nathan!
+Hey there, I'm Nathan! 👋
 ===========================
 
 Full Stack Software Engineer and Web Developer

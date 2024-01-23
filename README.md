@@ -6,7 +6,7 @@ Full Stack Software Engineer and Web Developer
  🌍  I'm based in the San Francisco Bay Area!  
  ✉️  You can reach me at nathanykliu@gmail.com  
  🧠  Current interest: Biohacking  
- ⚡  Former US Army Officer | Highly Motivated  
+ ⚡  Former US Army Officer | Fully Cleared (TS/SCI) | Highly Motivated  
 
 
 ### Skills
